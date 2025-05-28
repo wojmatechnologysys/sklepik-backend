@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "$2b$10$e0MYzXyjpJS7Pd0RVvHwHeFx4V6L4jZpnX5Zb.f6slyPwN7XRgu6e",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "sprzedawca",
+      "password": "$2b$10$1DiGmXq8vGuFzHDi6KehYO2kODHjUbUSIbnzHuZ5rTxlIlylfWy3i",
+      "role": "seller"
+    }
+  ],
+  "products": [],
+  "transactions": []
+}
